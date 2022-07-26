@@ -62,17 +62,17 @@
         "preHeading": "How It Works",
         "heading": "Create and sell your NFTs",
         "workData": [
-	    {
-                "id": 1,
-                "icon": "icons icon-login text-effect",
-                "title": "Register and whitelist",
-                "text": "Register for a new account and complete registration to apply for our whitelist. Only approved users and wallets can proceed."
-            },
             {
-                "id": 2,
+                "id": 1,
                 "icon": "icons icon-wallet text-effect",
                 "title": "Set up your wallet",
-                "text": "Once you’ve been approved for the whitelist. Set up your wallet of choice, connect it by clicking 'Connect button' at the top right corner of the marketplace."
+                "text": "Set up your MetaMask, connect it by clicking 'Connect Wallet' at the top right corner of the marketplace."
+            },
+	    {
+                "id": 2,
+                "icon": "icons icon-login text-effect",
+                "title": "Login or Register with ID.me",
+                "text": "Login or Register for ID.me in order to verify your identity. Only verified identites will be permitted to utilize the marketplace."
             },
             {
                 "id": 3,
